@@ -29,7 +29,7 @@ Documentation = "https://github.com/idealisticABO/ComfyUI_Tencent_hunyuan_MT/wik
 "Bug Tracker" = "https://github.com/idealisticABO/ComfyUI_Tencent_hunyuan_MT/issues"
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "@idealistic-abo"
 DisplayName = "ComfyUI_Tencent_hunyuan_MT"
 Icon = ""
 includes = [] 
