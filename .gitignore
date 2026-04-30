@@ -1,0 +1,28 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# model files
+models/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.gguf
+
+# cache
+.cache/
+huggingface/
+modelscope/
+
+# local files
+.DS_Store
+.vscode/
+.idea/
+
+# ComfyUI local folders
+input/
+output/
+temp/
